@@ -7,4 +7,7 @@ scikit-learn and pyspark for ML tasks.
 
 I also have experience in cloud technologies such as AWS, Docker and Kubernetes.
 
+Previously I created a telehealth startup called T20Med that connected self-employed doctors and patients via a mobile app
+and web platform.
+
 You can reach me out via leonardotarla@gmail.com
