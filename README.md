@@ -10,6 +10,8 @@ I also have experience in cloud technologies such as AWS, Docker and Kubernetes.
 Previously I created a telehealth startup called T20Med that connected self-employed doctors and patients via a mobile app
 and web platform. Now, I work as a full-time software engineer in other company.
 
+My telehealth API code is now open source and can be found [here](https://github.com/leo8198/t20med-api).
+
 Also, recently I started contributing to the [MLScraper project](https://github.com/lorey/mlscraper), an automated web scraper that
 uses fuzzy logic to scrape data. 
 
