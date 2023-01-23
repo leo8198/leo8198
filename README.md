@@ -12,6 +12,8 @@ and web platform. Now, I work as a full-time software engineer in other company.
 
 My telehealth API code is now open source and can be found [here](https://github.com/leo8198/t20med-api).
 
+I also open-sourced my undergraduate final thesis which is a heart-attack prediction study using machine learning algorithms. The jupyter notebook can be found [here](https://github.com/leo8198/heart-attack-prediction).
+
 Also, recently I started contributing to the [MLScraper project](https://github.com/lorey/mlscraper), an automated web scraper that
 uses fuzzy logic to scrape data. 
 
